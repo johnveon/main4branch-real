@@ -21,6 +21,8 @@ zhangsan-commoit-5
 lishi-commoit-4
 fion-commoit-4
 
+test-origin-dev-push
+
 fion-commoit-5
 zhangsan-commoit-6
 lishi-commoit-5
