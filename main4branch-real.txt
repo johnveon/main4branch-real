@@ -12,3 +12,7 @@ zhangsan-commoit-4
 lishi-commoit-3
 fion-commoit-3
 wangwu-commoit-1
+
+zhangsan-fix-sit-b1-3.1
+zhangsan-fix-sit-b1-3.2
+zhangsan-fix-sit-b1-3.3
